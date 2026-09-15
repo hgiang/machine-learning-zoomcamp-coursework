@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.python-version.local
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data (tải lại bằng script, không commit)
+data/
+*.csv
+*.parquet
+
+# Models
+*.bin
+*.pkl
+
+# Môi trường
+.env
+.envrc
+
+# Ghi chú cá nhân trong từng module (tiếng Việt, hướng dẫn làm bài)
+# — README.md ở root vẫn được commit
+*/README.md
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
