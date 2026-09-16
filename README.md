@@ -11,6 +11,9 @@ One module per week, starting 15 Sep 2026.
 ├── 01-intro/              # Module 1: Introduction to Machine Learning
 │   ├── data/              # Datasets — downloaded at runtime, not tracked
 │   └── homework.ipynb     # Homework solutions
+├── 02-regression/         # Module 2: Machine Learning for Regression
+│   ├── data/
+│   └── homework.ipynb
 ├── pyproject.toml         # Dependencies
 └── .python-version        # Python 3.12
 ```
@@ -34,8 +37,8 @@ Stack: NumPy, Pandas, scikit-learn, Matplotlib, Seaborn.
 
 | Module | Topic | Homework |
 |---|---|---|
-| 01 | Introduction to Machine Learning | ⬜ |
-| 02 | Machine Learning for Regression | ⬜ |
+| 01 | Introduction to Machine Learning | ✅ |
+| 02 | Machine Learning for Regression | ✅ |
 | 03 | Machine Learning for Classification | ⬜ |
 | 04 | Evaluation Metrics | ⬜ |
 | 05 | Deploying Machine Learning Models | ⬜ |
