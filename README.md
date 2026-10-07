@@ -14,6 +14,7 @@ One module per week, starting 15 Sep 2026.
 ├── 02-regression/         # Module 2: Machine Learning for Regression
 │   ├── data/
 │   └── homework.ipynb
+├── 03-classification/     # Module 3: Machine Learning for Classification
 ├── pyproject.toml         # Dependencies
 └── .python-version        # Python 3.12
 ```
@@ -39,7 +40,7 @@ Stack: NumPy, Pandas, scikit-learn, Matplotlib, Seaborn.
 |---|---|---|
 | 01 | Introduction to Machine Learning | ✅ |
 | 02 | Machine Learning for Regression | ✅ |
-| 03 | Machine Learning for Classification | ⬜ |
+| 03 | Machine Learning for Classification | ✅ |
 | 04 | Evaluation Metrics | ⬜ |
 | 05 | Deploying Machine Learning Models | ⬜ |
 | 06 | Decision Trees & Ensemble Learning | ⬜ |
