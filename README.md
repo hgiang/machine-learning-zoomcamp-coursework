@@ -16,6 +16,11 @@ One module per week, starting 15 Sep 2026.
 │   └── homework.ipynb
 ├── 03-classification/     # Module 3: Machine Learning for Classification
 ├── 04-evaluation/         # Module 4: Evaluation Metrics for Classification
+├── 05-deployment/         # Module 5: Deploying Machine Learning Models
+│   ├── release/           # Course model/API/Dockerfile — downloaded at runtime, not tracked
+│   ├── q3_predict.py      # Load pipeline.bin with pickle
+│   ├── q4_test.py         # Client for the API (local or Docker)
+│   └── homework.ipynb
 ├── pyproject.toml         # Dependencies
 └── .python-version        # Python 3.12
 ```
@@ -43,7 +48,7 @@ Stack: NumPy, Pandas, scikit-learn, Matplotlib, Seaborn.
 | 02 | Machine Learning for Regression | ✅ |
 | 03 | Machine Learning for Classification | ✅ |
 | 04 | Evaluation Metrics | ✅ |
-| 05 | Deploying Machine Learning Models | ⬜ |
+| 05 | Deploying Machine Learning Models | ✅ |
 | 06 | Decision Trees & Ensemble Learning | ⬜ |
 | 07 | Midterm Project | ⬜ |
 | 08 | Neural Networks & Deep Learning | ⬜ |

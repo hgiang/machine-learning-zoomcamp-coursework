@@ -11,6 +11,7 @@ venv/
 
 # Data (tải lại bằng script, không commit)
 data/
+release/
 *.csv
 *.parquet
 
